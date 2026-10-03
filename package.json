@@ -1,6 +1,12 @@
 {
-  "name": "textutils",
-  "version": "0.1.0",
+  "name": "inkwell",
+  "description": "A quiet, keyboard-first text editor for writing and reshaping text.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kssrk34/textutils.git"
+  },
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
