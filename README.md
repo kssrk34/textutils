@@ -4,6 +4,8 @@ A quiet, keyboard-first text editor for writing and reshaping text. Change case,
 
 Built with React. Your document is saved in your browser's local storage, so nothing leaves your machine.
 
+
+![Inkwell screenshot](docs/screenshot.png)
 ## Features
 
 **Transforms**: apply to the current selection, or to the whole document when nothing is selected. Every transform can be undone.
