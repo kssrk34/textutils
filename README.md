@@ -1,5 +1,7 @@
 # Inkwell
 
+**[Live demo →](https://inkwell-beta-vert.vercel.app)**
+
 A quiet, keyboard-first text editor for writing and reshaping text. Change case, sort and clean lines, encode and decode, find and replace with regular expressions, and keep an eye on word count and reading time, all in the browser with nothing to sign up for.
 
 Built with React. Your document is saved in your browser's local storage, so nothing leaves your machine.
